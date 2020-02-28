@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 def if_else_elif():
 	x,y = 2,8
 	if(x < y):
